@@ -11,6 +11,20 @@ It has a login and logout page(so that only I can access the camera feed), once 
 | Flask | 2.0.2 |
 | opencv-python | 4.5.3.56 |
 
+## How to get started
+To use this project, follow these steps:
+
+* Make a `.env` file using the command `virtualenv env`
+* Clone this repository 
+```
+git clone https://github.com/sahiljena/cv2-flask.git
+```
+* Install dependencies 
+```
+pip install -r requirements.txt
+```
+* Run the App  `python app.py` or `flask run`
+
 
 
 
